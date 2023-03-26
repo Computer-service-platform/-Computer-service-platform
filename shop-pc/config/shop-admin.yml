@@ -9,4 +9,4 @@ spring:
     driver-class-name: com.mysql.cj.jdbc.Driver
     url: jdbc:mysql://localhost:3306/db_onlineshopping?useUnicode=true&serverTimezone=Asia/Shanghai&useSSL=false&characterEncoding=utf-8
     username: root
-    password: 123
+    password: 232328
